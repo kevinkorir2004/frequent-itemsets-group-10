@@ -8,7 +8,7 @@
 - Kevin Korir – Simulated data generation (Part 1)
 - Margret – One-hot encoding (Part 2)
 - Geoffrey – Frequent itemsets with Apriori
-- Bricole – Closed & maximal frequent itemsets logic
+- Bricole & Alfred Gakinya – Closed & maximal frequent itemsets logic
 
 ---
 
